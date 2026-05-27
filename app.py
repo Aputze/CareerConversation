@@ -183,7 +183,7 @@ if __name__ == "__main__":
     respond.me_instance = me
     
     # Welcome message
-    welcome_message = "Hello! I'm Sergei LERNER, an ERP Automation and AI Integration Specialist with over 13 years of experience working with Priority ERP, specializing in system architecture, AI-powered automation solutions, and advanced API integrations. I'm here to answer questions about my career, background, skills, and experience. Feel free to ask me anything!"
+    welcome_message = "Hi! I am Sergei Lerner, an AI Product Manager and ERP plus AI Integration Architect with 14 years of hands-on Priority ERP experience. I have shipped AI products from concept to production including MCP servers, AI agents, procurement portals, and a developer agent that builds Priority modules from plain text. Ask me anything about my background, projects, product vision, or how I think about AI in enterprise software."
 
     dark_theme_palette = {
         "body_background_fill": "#0b1220",
